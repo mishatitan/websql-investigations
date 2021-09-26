@@ -96,53 +96,53 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 During the migration from `WebSQL/SQLite` to `IndexedDB` listed files will be affected and refactored. (Some files might be missed)
 
 1. **cordova-init-storage.ts**
-Description: 
-Path: `scripts/services/cordova/cordova-init-storage.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/cordova/cordova-init-storage.ts`
 
 1. **database.ts** 
-Description: 
-Path: `scripts/services/kernel/database.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/kernel/database.ts`
 
 1. **SQLite.ts** 
-Description: 
-Path: `scripts/services/cordova/SQLite.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/cordova/SQLite.ts`
 
 1. **log-sql-storage.ts** 
-Description: 
-Path: `scripts/services/kernel/log-sql-storage.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/kernel/log-sql-storage.ts`
 
 1. **state-repository.ts** 
-Description: 
-Path: `scripts/services/kernel/state-repository.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/kernel/state-repository.ts`
 
 1. **job-attachment-manager.ts** 
-Description: 
-Path: `scripts/services/managers/job-attachment-manager.js`
+    1. **Description:**  Loading... 🚀
+    1. **Path:** `scripts/services/managers/job-attachment-manager.js`
 
 1. **previous-attachment-repository.ts** 
-Description: 
-Path: `scripts/services/repository/previous-attachment-repository.js`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/repository/previous-attachment-repository.js`
 
 1. **previous-form-repository.ts** 
-Description: 
-Path: `scripts/services/repository/previous-form-repository.js`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/repository/previous-form-repository.js`
 
 1. **attachment-table.ts** 
-Description: 
-Path: `scripts/services/repository/form-data-repository/attachment-table.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/repository/form-data-repository/attachment-table.ts`
 
 1. **picture-table.ts** 
-Description: 
-Path: `scripts/services/repository/form-data-repository/picture-table.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/repository/form-data-repository/picture-table.ts`
 
 1. **pricebook-utils.ts** 
-Description: 
-Path: `scripts/services/utils/pricebook-utils.ts`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/utils/pricebook-utils.ts`
 
 1. **database.test.ts** 
-Description: 
-Path: `tests/mobile/services/kernel/database.test.js`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `tests/mobile/services/kernel/database.test.js`
 
 1. **attachment-table.test.ts** 
-Description: 
-Path: `tests/mobile/services/repository/form-data-repository/attachment-table.test.js`
+    1. **Description:** Loading... 🚀
+    1. **Path:** `tests/mobile/services/repository/form-data-repository/attachment-table.test.js`
