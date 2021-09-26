@@ -25,7 +25,7 @@ Based on investigations `IndexedDB` is more suitable for our use cases than `Web
 For more information please see: [IndexedDB VS Web Storage](https://softwareengineering.stackexchange.com/questions/219953/how-is-localstorage-different-from-indexeddb).
 
 ## IndexedDB Libraries/Wrappers
-We've investigated the IndexedDB to understand its "good" and "bad" sides and to find out the best library that will help us during the development process.
+We've investigated the `IndexedDB` to understand its "good" and "bad" sides and to find out the best library that will help us during the development process.
 There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ### Dexie.js
