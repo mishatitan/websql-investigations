@@ -60,6 +60,23 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ---
 
+### localforage
+> **localforage** localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (`IndexedDB` or `WebSQL`) with a simple, `localStorage-like API`.
+
+
+##### Links:
+* Homepage - https://localforage.github.io/localForage/
+* GitHub - https://github.com/localForage/localForage
+* NpmJS - https://www.npmjs.com/package/localforage
+
+| Advantages | Disadvantages |
+|:----------:|:-------------:|
+| Thinking   | 🤔            |
+|            |               |
+|            |               |
+
+---
+
 ### JSStore
 > A complete `IndexedDB` wrapper with `SQL` like syntax.
 
