@@ -28,13 +28,13 @@ For more information please see: [IndexedDB VS Web Storage](https://softwareengi
 We've investigated the `IndexedDB` to understand its "good" and "bad" sides and to find out the best library that will help us during the development process.
 There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
-### Dexie.js
-> **Dexie.js** is a wrapper library for `IndexedDB` - the standard database in the browser.
+### localforage ( 19.5k  ⭐ )
+> **localforage** is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (`IndexedDB` or `WebSQL`) with a simple, `localStorage-like API`.
 
 ##### Links:
-* Homepage - https://dexie.org/
-* GitHub - https://github.com/dfahlander/Dexie.js
-* NpmJS - https://www.npmjs.com/package/dexie
+* Homepage - https://localforage.github.io/localForage/
+* GitHub - https://github.com/localForage/localForage
+* NpmJS - https://www.npmjs.com/package/localforage
 
 | Advantages | Disadvantages |
 |:----------:|:-------------:|
@@ -44,7 +44,7 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ---
 
-### PouchDB
+### PouchDB ( 14.4k  ⭐ )
 > **PouchDB** is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
 ##### Links:
@@ -60,14 +60,13 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ---
 
-### localforage
-> **localforage** localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (`IndexedDB` or `WebSQL`) with a simple, `localStorage-like API`.
-
+### Dexie.js ( 7k  ⭐ )
+> **Dexie.js** is a wrapper library for `IndexedDB` - the standard database in the browser.
 
 ##### Links:
-* Homepage - https://localforage.github.io/localForage/
-* GitHub - https://github.com/localForage/localForage
-* NpmJS - https://www.npmjs.com/package/localforage
+* Homepage - https://dexie.org/
+* GitHub - https://github.com/dfahlander/Dexie.js
+* NpmJS - https://www.npmjs.com/package/dexie
 
 | Advantages | Disadvantages |
 |:----------:|:-------------:|
@@ -77,29 +76,29 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ---
 
-### JSStore
-> A complete `IndexedDB` wrapper with `SQL` like syntax.
-
-##### Links:
-* Homepage - https://jsstore.net/
-* GitHub - https://github.com/ujjwalguptaofficial/JsStore
-* NpmJS - https://www.npmjs.com/package/jsstore
-
-| Advantages | Disadvantages |
-|:----------:|:-------------:|
-| Thinking   | 🤔            |
-|            |               |
-|            |               |
-
----
-
-### IDB
+### IDB ( 4k  ⭐ )
 > This is a tiny (~1.09k brotli'd) library that mostly mirrors the `IndexedDB API`.
 
 ##### Links:
 * Homepage - https://github.com/jakearchibald/idb#readme
 * GitHub - https://github.com/jakearchibald/idb
 * NpmJS - https://www.npmjs.com/package/idb
+
+| Advantages | Disadvantages |
+|:----------:|:-------------:|
+| Thinking   | 🤔            |
+|            |               |
+|            |               |
+
+---
+
+### JSStore ( 507  ⭐ )
+> A complete `IndexedDB` wrapper with `SQL` like syntax.
+
+##### Links:
+* Homepage - https://jsstore.net/
+* GitHub - https://github.com/ujjwalguptaofficial/JsStore
+* NpmJS - https://www.npmjs.com/package/jsstore
 
 | Advantages | Disadvantages |
 |:----------:|:-------------:|
