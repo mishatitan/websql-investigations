@@ -1,4 +1,4 @@
-# WebSQL Replacement Investigation
+# WebSQL/SQLite Replacement Investigation
 
 ## Introduction
 > Web SQL Database is a web page API for storing data in databases that can be queried using the SQL variant.
