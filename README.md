@@ -76,7 +76,7 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ---
 
-### IDB ( 4k  ⭐ )
+### IDB ( 4.1k  ⭐ )
 > This is a tiny (~1.09k brotli'd) library that mostly mirrors the `IndexedDB API`.
 
 ##### Links:
