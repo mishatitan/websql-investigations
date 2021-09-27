@@ -112,6 +112,7 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 ## Affecting Files
 During the migration from `WebSQL/SQLite` to `IndexedDB` listed files will be affected and refactored. (Some files might be missed)
+
 **If we don't change the query syntax and leave it as SQL queries some of these files will not be affected.**
 
 1. **cordova-init-storage.ts**
