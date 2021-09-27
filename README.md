@@ -123,8 +123,12 @@ During the migration from `WebSQL/SQLite` to `IndexedDB` listed files will be af
     1. **Description:** Loading... 🚀
     1. **Path:** `scripts/services/cordova/SQLite.ts`
 
-1. **log-sql-storage.ts** 
+1. **database-storage.ts** 
     1. **Description:** Loading... 🚀
+    1. **Path:** `scripts/services/kernel/database-storage.ts`
+
+1. **log-sql-storage.ts** 
+    1. **Description:** Stores the log data in the DB.
     1. **Path:** `scripts/services/kernel/log-sql-storage.ts`
 
 1. **state-repository.ts** 
@@ -132,7 +136,7 @@ During the migration from `WebSQL/SQLite` to `IndexedDB` listed files will be af
     1. **Path:** `scripts/services/kernel/state-repository.ts`
 
 1. **job-attachment-manager.ts** 
-    1. **Description:**  Loading... 🚀
+    1. **Description:** Stores job attachments in Base64 format.
     1. **Path:** `scripts/services/managers/job-attachment-manager.js`
 
 1. **previous-attachment-repository.ts** 
