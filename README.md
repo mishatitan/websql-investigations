@@ -99,7 +99,9 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 * Homepage - https://jsstore.net/
 * GitHub - https://github.com/ujjwalguptaofficial/JsStore
 * NpmJS - https://www.npmjs.com/package/jsstore
-* Additional info: Has a `SqlWeb` extension that allows to perform **SQL** syntax queries.
+
+##### Additional info: 
+* Has a `SqlWeb` extension that allows to perform **SQL** syntax queries.
 
 | Advantages | Disadvantages |
 |:----------:|:-------------:|
