@@ -54,7 +54,7 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 | Advantages | Disadvantages |
 |:----------:|:-------------:|
-| Thinking   | 🤔            |
+| Has the ability to install plugins that speeds up the work. | Doesn't have an alternative for SQL Table. |
 |            |               |
 |            |               |
 
@@ -70,7 +70,7 @@ There are a few `IndexedDB` libraries/wrappers that are suitable for us.
 
 | Advantages | Disadvantages |
 |:----------:|:-------------:|
-| Thinking   | 🤔            |
+| Thinking   | All objects should have a type/interface. |
 |            |               |
 |            |               |
 
